@@ -1,0 +1,3 @@
+[EXECUTABLE]
+gdx-native-image-example-0.0.1
+

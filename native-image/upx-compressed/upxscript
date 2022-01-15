@@ -1,0 +1,4 @@
+chmod +x *.so
+upx --best *.so
+chmod -x *.so
+upx --best gdx*

@@ -1,0 +1,1 @@
+native-image --report-unsupported-elements-at-runtime -jar *.jar
